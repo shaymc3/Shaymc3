@@ -23,7 +23,7 @@ My goal is to become a professional in software quality assurance and contribute
 - API Testing with Postman  
 
 ## 📫 How to reach me
-- Email: shay302727@gmail.com
+- Email: shayc.qa@gmail.com
 - LinkedIn: https://www.linkedin.com/in/shaycohen27/
 - Portfolio / Blog: https://shaymc3.github.io/portfolio/
 
